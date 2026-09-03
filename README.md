@@ -66,6 +66,8 @@
 
 ![AI Create Followup](screenshots/07-ai-create-followup.png)
 
+![AI Create Followup](screenshots/08-ai-create-followup.png)
+
 ---
 
 ## 🎬 Demo 演示
